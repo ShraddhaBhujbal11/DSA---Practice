@@ -2,6 +2,7 @@
 Problem: 238. Product of Array Except Self
 Platform: LeetCode
 Difficulty: Medium
+Link : https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-interview-150
 
 Approach:
 - Traverse the array once to count the number of zeros and calculate the product of all non-zero elements.
