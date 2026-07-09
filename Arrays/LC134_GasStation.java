@@ -2,6 +2,7 @@
 Problem: 134. Gas Station
 Platform: LeetCode
 Difficulty: Medium
+Link : https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150
 
 Approach:
 - Traverse all gas stations while maintaining two variables:
