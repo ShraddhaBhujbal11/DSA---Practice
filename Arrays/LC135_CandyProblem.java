@@ -2,7 +2,7 @@
 Problem: 135. Candy
 Platform: LeetCode
 Difficulty: Hard
-Link: https://leetcode.com/problems/candy/
+Link: https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150
 
 Approach:
 - Give every child 1 candy initially since each child must receive at least one candy.
