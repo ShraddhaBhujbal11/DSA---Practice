@@ -2,7 +2,7 @@
 Problem: 167. Two Sum II - Input Array Is Sorted
 Platform: LeetCode
 Difficulty: Medium
-Link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+Link:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?envType=study-plan-v2&envId=top-interview-150
 
 Approach:
 - Since the array is sorted, use two pointers:
