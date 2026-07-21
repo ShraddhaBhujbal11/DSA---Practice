@@ -2,7 +2,7 @@
 Problem: 54. Spiral Matrix
 Platform: LeetCode
 Difficulty: Medium
-Link: https://leetcode.com/problems/spiral-matrix/
+Link: https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=top-interview-150
 
 Approach:
 - Maintain four boundaries:
